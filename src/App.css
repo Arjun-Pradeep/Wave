@@ -1,0 +1,47 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin-top: 64px;
+  background-image: url('https://i.ibb.co/mFjZN10/wallpaperflare-com-wallpaper-1.jpg');
+  background-size: cover;
+  height: 254px;
+  margin-top: 150px;
+  margin-left: 295px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  /* margin-top: 16px; */
+}
+
+.waveButton {
+  cursor: pointer;
+  margin-top: 16px;
+  padding: 8px;
+  border: 0;
+  border-radius: 5px;
+  margin-right: 333px;
+  margin-left: 166px;
+}
+
+.textBox{
+  margin-left: 134px;
+    margin-top: 25px;
+    margin-bottom: 11px;
+}
